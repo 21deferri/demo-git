@@ -7,3 +7,4 @@ print("c'est très répétitif")
 
 print("on peut avoir VS code en ligne en plus")
 print("creation d'un conflit")
+print("c'est le conflit")
