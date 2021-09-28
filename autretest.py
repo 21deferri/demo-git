@@ -1,1 +1,3 @@
-print(3.1415)
+print("ligne avant")
+
+print("ligne après")
